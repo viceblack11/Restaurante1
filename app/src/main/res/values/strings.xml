@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Restaurante</string>
+    <string name= "inicio_titulo">Costeau</string>
+    <string name= "inicio_descrip">Gran café hecho simple. Empieza tus mañanas con los mejores cafés del mundo. Pruebe nuestros cafés artesanales curados por expertos de nuestros mejores tostadores entregados directamente en su puerta, a su horario.</string>
+    <string name= "carne">BIFE DE CARNE</string>
+    <string name= "btn_carne">Reservar</string>
+    <string name= "torta">Torta de chocolate</string>
+    <string name= "btn_torta">Reservar</string>
+    <string name= "salmon">Bife de salmon</string>
+    <string name= "btn_salmon">Reservar</string>
+    <string name= "Reservar">Reservar</string>
+    <string name= "AGENDAR">AGENDAR</string>
+</resources>
